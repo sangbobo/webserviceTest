@@ -4,7 +4,7 @@ import org.apache.cxf.endpoint.Server;
 import org.apache.cxf.jaxws.JaxWsServerFactoryBean;
 
 /**
- * Created by 桑博 on 2018/5/10.
+ * Created by SangBigYe on 2018/5/10.
  */
 public class ServiceRun {
 
